@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movies Soon</string>
+    <string name="title_in_theaters">Now Playing</string>
+    <string name="title_coming_soon">Coming Soon</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="api_key">API_KEY_HERE</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+
+    <string-array name="array_release_type">
+        <item>All</item>
+        <item>Theatrical</item>
+        <item>Limited</item>
+    </string-array>
+
+    <string-array name="array_sort_by">
+        <item>Most Popular</item>
+        <item>Least Popular</item>
+        <item>Newest Release</item>
+        <item>Oldest Release</item>
+        <item>Highest Rating</item>
+        <item>Lowest Rating</item>
+    </string-array>
+
+</resources>
